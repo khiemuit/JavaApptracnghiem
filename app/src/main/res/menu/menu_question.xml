@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/quesall"
+        android:title="Tất cả"
+        android:icon="@drawable/icon1" />
+    <item
+        android:id="@+id/qtoan"
+        android:title="Toán học"
+        android:icon="@drawable/icon2" />
+    <item
+        android:id="@+id/qly"
+        android:title="Vật Lý"
+        android:icon="@drawable/icon3" />
+    <item
+        android:id="@+id/qhoa"
+        android:title="Hóa Học"
+        android:icon="@drawable/icon4" />
+    <item
+        android:id="@+id/qsinh"
+        android:title="Sinh Học"
+        android:icon="@drawable/icon5" />
+    <item
+        android:id="@+id/qsu"
+        android:title="Lịch Sử"
+        android:icon="@drawable/icon6" />
+    <item
+        android:id="@+id/qdia"
+        android:title="Địa Lý"
+        android:icon="@drawable/icon7" />
+</menu>
